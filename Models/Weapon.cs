@@ -11,7 +11,6 @@ namespace FightClub.Models
     {
         Name = name;
         AttackModifier = attackMod;
-
     }
   }
 }
